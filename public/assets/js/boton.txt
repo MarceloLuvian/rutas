@@ -1,0 +1,11 @@
+<button type="button" onClick ="$('#tabla').tableExport({type:'excel',escape:'false'});" class="btn btn-success">Exportar a EXCEL</button>
+
+
+
+<script type="text/javascript" src="/RegistroFichas/resources/assets/scripts/jspdf/libs/sprintf.js"></script>
+	<script type="text/javascript" src="/RegistroFichas/resources/assets/scripts/jspdf/jspdf.js"></script>
+	<script type="text/javascript" src="/RegistroFichas/resources/assets/scripts/jspdf/libs/base64.js"></script>
+
+
+	<script type="text/javascript" src="/RegistroFichas/resources/assets/scripts/tableExport.js"></script>
+	<script type="text/javascript" src="/RegistroFichas/resources/assets/scripts/jquery.base64.js"></script>

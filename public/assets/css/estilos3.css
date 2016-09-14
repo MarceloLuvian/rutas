@@ -1,0 +1,50 @@
+table {
+    border-spacing: 0;
+    border-collapse: collapse;   
+    margin-left: 8px;
+     width: 100%;
+}
+.tabla{
+    text-align: center;
+    font-family: "Arial";
+    font-size: 9px;
+    max-width: 30px;
+    padding-top: 15px;
+
+}
+th, td {
+ width: 25%;
+   text-align: center;
+   font-size: 12px;
+   vertical-align: top;
+   border: 1px solid #000;
+}
+th{
+	background-color: #FAAC58;
+}
+
+.do{
+width: 20px;
+}
+.domicilio{
+font-size: 10px;
+}
+.dom{
+width: 80px;
+}
+.domicil{
+width: 250px;
+}
+.domicili{
+width: 100px;
+}
+.domi{
+width: 70px;
+}
+strong{
+  font-size: 14px;
+}
+
+span{
+  font-size: 14px;
+}
